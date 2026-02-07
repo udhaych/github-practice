@@ -7,6 +7,7 @@ This repository contains basic C++ programs that I am writing while learning Git
 - hello.cpp → Prints "Hello GitHub!"
 - even_odd.cpp → Checks whether a number is even or odd
 - sum_of_n.cpp → Calculates sum of first n natural numbers using loop
+- factorial.cpp → Calculates factorial of a number using recursion
 
 ## Concepts Covered
 
